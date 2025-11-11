@@ -33,8 +33,8 @@ It captures product **titles, prices, ratings, and links** and saves the data in
 
 1. Clone the repository:
 ```bash
-git clone <repo-url>
-cd <repo-folder>
+git clone [<repo-url>](https://github.com/adityatupe026-star/Flipkart-Scraper)
+cd flipkart.py
 ```
 
 2. Install required Python packages:
@@ -50,7 +50,7 @@ pip install selenium pandas
 
 1. Run the script:
 ```bash
-python flipkart_scraper.py
+python flipkart.py
 ```
 
 2. Enter the product name when prompted:
