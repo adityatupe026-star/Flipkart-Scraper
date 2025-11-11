@@ -7,8 +7,8 @@ It captures product **titles, prices, ratings, and links** and saves the data in
 
 ## Author ✍️
 - Name: Your Name
-- GitHub: [yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- Linked IN: [Linked IN](www.linkedin.com/in/aditya-tupe45)
+- Email: adityatupe026@.com
 
 ---
 
